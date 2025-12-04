@@ -1,0 +1,7 @@
+{
+  "name": "PlantID Pro",
+  "description": "A high-performance mobile-first plant identification application using Gemini AI for instant recognition, description, and multi-language translation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
